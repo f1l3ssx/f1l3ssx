@@ -1,5 +1,5 @@
 ## Добро пожаловать 
-
+Всем привет  меня зовут Абдулла так я ещё новичок в программирование поэтому если есть жалеющий  научите меня программировать
 <!--
 **f1l3ssx/f1l3ssx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
